@@ -92,12 +92,3 @@ MongoDB atlas is used for cloud data storage. Three collections have been made t
 
 # **Bash Script**
 Bash script also created which upon executing would start all Hadoop and Kafka services.
-
-
-**Group Members:**
-
-Maemoon Farooq i211680
-
-` `Taimoor Atta i211754
-
-Younas Sohail i212680
