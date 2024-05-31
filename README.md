@@ -88,7 +88,7 @@ This approach leverages Kafka for data streaming, the Apriori algorithm for iden
 
 # **MongoDB**
 
-MongoDB is used for data storage. Three collections have been made to store individual data produced for each algorithm.
+MongoDB atlas is used for cloud data storage. Three collections have been made to store individual data produced for each algorithm.
 
 # **Bash Script**
 Bash script also created which upon executing would start all Hadoop and Kafka services.
